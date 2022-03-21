@@ -9,5 +9,5 @@
 - Main Memory: Fast small temporary storage - lost on reboot - aka RAM
 - Secondary Memory: Slower large permanent storage - lasts until deleted - disk drive / memory stick
 
-You cannot use reserved words as variable names / identifiers
+You cannot use reserved words as variable names / identifiers:
 ![img.png](img.png)
